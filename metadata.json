@@ -1,0 +1,6 @@
+{
+  "name": "DanaFlow",
+  "description": "Aplikasi pencatat keuangan multi-dompet, analisis cashflow, anggaran, dan ekspor laporan PDF 100% offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

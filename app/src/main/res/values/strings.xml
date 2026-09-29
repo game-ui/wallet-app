@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DanaFlow</string>
+    <string name="nav_beranda">Beranda</string>
+    <string name="nav_catat">Catat</string>
+    <string name="nav_analisis">Analisis</string>
+    <string name="nav_laporan">Laporan PDF</string>
+    <string name="offline_badge">100% Offline &amp; Privat</string>
+    <string name="total_combined_balance">Total Saldo Gabungan</string>
+    <string name="income_label">Pemasukan</string>
+    <string name="expense_label">Pengeluaran</string>
+    <string name="transfer_label">Transfer</string>
+    <string name="multi_wallet_title">Dompet &amp; Rekening Saya</string>
+    <string name="add_wallet">Tambah Dompet</string>
+    <string name="recent_transactions">Transaksi Terakhir</string>
+    <string name="record_transaction_title">Catat Transaksi</string>
+    <string name="save_transaction">Simpan Transaksi</string>
+    <string name="cashflow_analysis_title">Analisis Cashflow</string>
+    <string name="pdf_report_title">Laporan &amp; Ekspor PDF</string>
+    <string name="export_pdf_cta">Ekspor Laporan PDF</string>
+    <string name="export_csv_cta">Ekspor CSV</string>
+</resources>
